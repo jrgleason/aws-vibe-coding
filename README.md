@@ -1,5 +1,7 @@
 # AWS Vibe Coding
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=jrgleason_aws-vibe-coding&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=jrgleason_aws-vibe-coding)
+
 A modern React application built with Vite and TypeScript, deployed to AWS S3 with static website hosting. This is the first step in building a complete serverless architecture that will include:
 - API Gateway for request forwarding
 - Lambda functions for backend services
